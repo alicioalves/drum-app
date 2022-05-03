@@ -2,6 +2,8 @@
 
 SPA developed with [Vue.js](https://vuejs.org/) using [VueCLI](https://cli.vuejs.org/).
 
+Work in progress.
+
 # How to Play
 You can click on the buttons or use the default keybinds (user keybinds to be implemented in a later version):
 
@@ -17,7 +19,7 @@ You can click on the buttons or use the default keybinds (user keybinds to be im
 ## Libraries
 
 * The styling of this project was made using [BootstrapVue](https://bootstrap-vue.org/) and [Sass](https://sass-lang.com/) with [SCSS](https://sass-lang.com/documentation/syntax)
-* The audio is being handle by [howler.js](https://howlerjs.com/)
+* The audio is being handled by [howler.js](https://howlerjs.com/)
 
 ## Project setup
 ```
@@ -41,3 +43,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Demo
+A demo of this project can be found [here](https://drum-app-aa.netlify.app/)
