@@ -1,4 +1,23 @@
-# drum-app
+# Drum App
+
+SPA developed with [Vue.js](https://vuejs.org/) using [VueCLI](https://cli.vuejs.org/).
+
+# How to Play
+You can click on the buttons or use the default keybinds (user keybinds to be implemented in a later version):
+
+* Crash Cymbal: Q
+* High Tom: W
+* Medium Tom: E
+* Ride Cymbal: R
+* Hi Hat: A
+* Snare Drum: S
+* Bass Drum: Space Bar
+* Floor Tom: C
+
+## Libraries
+
+* The styling of this project was made using [BootstrapVue](https://bootstrap-vue.org/) and [Sass](https://sass-lang.com/) with [SCSS](https://sass-lang.com/documentation/syntax)
+* The audio is being handle by [howler.js](https://howlerjs.com/)
 
 ## Project setup
 ```
