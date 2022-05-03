@@ -1,0 +1,12 @@
+#drum-parts{
+    width: 100%;
+    height: 100px;
+    margin: 5px;
+}
+
+.btn-secondary:focus {
+    color: #fff;
+    background-color: #000;
+    border-color: #565e64;
+    box-shadow: 0 0 0 0.25rem rgb(130 138 145 / 50%);
+}
